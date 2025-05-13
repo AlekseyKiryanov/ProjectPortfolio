@@ -79,7 +79,7 @@
 
 В рамках выполнения выпускного проекта IT-школы Samsung было разработано мобильное приложение для расчета электрических схем по правилам Кирхгофа
 
-[Калбкулятор электрических схем](https://github.com/AlekseyKiryanov/Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)
+[Калькулятор электрических схем](https://github.com/AlekseyKiryanov/Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)
 
 Итоговой работой IT-академии Samsung стала мобильная игра - симулятор баллистической стрельбы
 
