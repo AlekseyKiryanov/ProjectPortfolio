@@ -49,12 +49,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3DViever)](https://github.com/AlekseyKiryanov/3DViever)
 
-<h3 align="center">Транспортная клиент-серверная информационная система</h3>
+<h3 align="center">Транспортная клиент-серверная информационная система Python+Kotlin</h3>
 
+Проект предлагает концепцию управления городским пассадирским транспортом с возможностью оперативного редактирования расписаний и построения маршрутов с учетом распредления пасссажиропотоков
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PublicTransport2025&repo=Server)](https://github.com/PublicTransport2025/Server)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PublicTransport2025&repo=Mobile)](https://github.com/PublicTransport2025/Mobile)
 
 <h3 align="center">Доклад на конференции "Радиолокация, навигация и связь 2024"</h3>
 
