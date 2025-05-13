@@ -53,7 +53,7 @@
 
 Проект предлагает концепцию управления городским пассадирским транспортом с возможностью оперативного редактирования расписаний и построения маршрутов с учетом распредления пасссажиропотоков
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PublicTransport2025&repo=Server)](https://github.com/PublicTransport2025/Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PublicTransport2025&repo=Server)]()
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PublicTransport2025&repo=Mobile)](https://github.com/PublicTransport2025/Mobile)
 
@@ -79,11 +79,11 @@
 
 В рамках выполнения выпускного проекта IT-школы Samsung было разработано мобильное приложение для расчета электрических схем по правилам Кирхгофа
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)](https://github.com/AlekseyKiryanov/Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)
+[Калбкулятор электрических схем](https://github.com/AlekseyKiryanov/Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)
 
 Итоговой работой IT-академии Samsung стала мобильная игра - симулятор баллистической стрельбы
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=Scientific_shoting)](https://github.com/AlekseyKiryanov/Scientific_shoting)
+[Симулятор баллистической стрельбы](https://github.com/AlekseyKiryanov/Scientific_shoting)
 
 <table><tr>
   <td width='30%'><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/Samsung_1.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/icons/Samsung_1.jpg'></a></td>
