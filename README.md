@@ -49,6 +49,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3DViever)](https://github.com/AlekseyKiryanov/3DViever)
 
+<h3 align="center">Транспортная клиент-серверная информационная система</h3>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PublicTransport2025&repo=Server)](https://github.com/PublicTransport2025/Server)
+
+
+
 <h3 align="center">Доклад на конференции "Радиолокация, навигация и связь 2024"</h3>
 
 **"Цифровые двойники формирования радиолокационных изображений и расчета эффективной площади рассеяния объектов"**
