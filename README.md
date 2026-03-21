@@ -43,21 +43,19 @@
 </tr>
 </table>
 
+<h3 align="center">Транспортная клиент-серверная информационная система Python+Kotlin</h3>
+
+Проект предлагает концепцию управления городским пассадирским транспортом с возможностью оперативного редактирования расписаний и построения маршрутов с учетом распредления пасссажиропотоков
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3KA-Green-Light)](https://github.com/AlekseyKiryanov/3KA-Green-Light)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3KA-Server-Green-Light)](https://github.com/AlekseyKiryanov/3KA-Server-Green-Light)
+
 <h3 align="center">Командный проект 3D-Viewer on Java</h3>
 
 Проект выполнялся в группе студентов с разделением задач на гитхабе
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3DViever)](https://github.com/AlekseyKiryanov/3DViever)
-
-<h3 align="center">Транспортная клиент-серверная информационная система Python+Kotlin</h3>
-
-Проект предлагает концепцию управления городским пассадирским транспортом с возможностью оперативного редактирования расписаний и построения маршрутов с учетом распредления пасссажиропотоков
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PublicTransport2025&repo=Server)]()
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PublicTransport2025&repo=Mobile)](https://github.com/PublicTransport2025/Mobile)
-
-
 
 <h3 align="center">IT-школа и IT-академия Samsung</h3>
 
