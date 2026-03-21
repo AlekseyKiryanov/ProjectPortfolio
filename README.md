@@ -1,5 +1,5 @@
 <h1 align="center">Портфолио</h1>
-<h2 align="center">Кирьянов Алексей Олегович | ВГУ ФКН 3 курс</h2>
+<h2 align="center">Кирьянов Алексей Олегович | ВГУ ФКН 4 курс</h2>
 
 <h3 align="center">Навыки по технологиям</h3>
 
@@ -51,6 +51,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=3KA-Server-Green-Light)](https://github.com/AlekseyKiryanov/3KA-Server-Green-Light)
 
+<h3 align="center">Хакатон "Моя профессия - IT" Воронеж 2025</h3>
+
+В команде раелизована ситема GEO-оптимизации сайтов. Моя роль - реализация бэкенда на Fast API Python. Работа получила 1 место
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CsOptima&repo=backend)](https://github.com/CsOptima/backend)
+
 <h3 align="center">Командный проект 3D-Viewer on Java</h3>
 
 Проект выполнялся в группе студентов с разделением задач на гитхабе
@@ -61,11 +67,14 @@
 
 В рамках выполнения выпускного проекта IT-школы Samsung было разработано мобильное приложение для расчета электрических схем по правилам Кирхгофа
 
-[Калькулятор электрических схем](https://github.com/AlekseyKiryanov/Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)](https://github.com/AlekseyKiryanov/Solution_of_resistance_electrical_circuits_by_Kirchoffs_circuit_laws)
 
 Итоговой работой IT-академии Samsung стала мобильная игра - симулятор баллистической стрельбы
 
-[Симулятор баллистической стрельбы](https://github.com/AlekseyKiryanov/Scientific_shoting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=Scientific_shoting)](https://github.com/AlekseyKiryanov/Scientific_shoting)
+
+
+<h3 align="center">Мои дипломы</h3>
 
 <table><tr>
   <td width='30%'><a href='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/works/IT.jpg'><img max-width='30%' src='https://github.com/AlekseyKiryanov/TBankPortfolio/blob/main/icons/IT.jpg'></a></td>
