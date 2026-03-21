@@ -72,9 +72,15 @@
 
 <h3 align="center">Хакатон "Моя профессия - IT" Воронеж 2025</h3>
 
-В команде раелизована ситема GEO-оптимизации сайтов. Моя роль - реализация бэкенда на Fast API Python. Работа получила 1 место
+В команде реализована система GEO-оптимизации сайтов. Моя роль - реализация бэкенда на Fast API Python. Работа получила 1 место
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CsOptima&repo=backend)](https://github.com/CsOptima/backend)
+
+<h3 align="center">Эксперименты по анализу данных</h3>
+
+Проект по оценке недвижимости Москвы с использованием средств классического машинного обучения и сверточных нейросетей
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlekseyKiryanov&repo=MoscowCostPredictor)](https://github.com/AlekseyKiryanov/MoscowCostPredictor)
 
 <h3 align="center">Командный проект 3D-Viewer on Java</h3>
 
